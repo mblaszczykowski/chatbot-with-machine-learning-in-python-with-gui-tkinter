@@ -1,0 +1,28 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Hello", "Whats up", "Good morning"],
+         "responses": ["Hello! How can I help you?", "Hi! Whats going on?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Bye"],
+         "responses": ["See you soon!", "Goodbye!"],
+         "context_set": ""
+        },
+        {"tag": "me",
+         "patterns": ["what is your name", "what should I call you", "who you are", "are you alive?"],
+         "responses": ["I am simple machine learning program which is able to understand your words! You can call me anything you want"],
+         "context_set": ""
+        },
+        {"tag": "ai",
+         "patterns": ["will ai kill us", "what are the intentions of artificial intelligence"],
+         "responses": ["AI is developed to help you humans!"],
+         "context_set": ""
+        },
+        {"tag": "hours",
+         "patterns": ["when are you available", "what are your hours", "hours of operation", "when are you online"],
+         "responses": ["I am online 9am-5pm Monday-Friday!"],
+         "context_set": ""
+        }
+   ]
+}
