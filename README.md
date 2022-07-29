@@ -24,9 +24,3 @@ App is based on TechWithTim Machine Learning, Neural Networks, and Deep Learning
 
 ## Contact
 Feel free to contact me via my mail michvlbbb@gmail.com
-
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
-
